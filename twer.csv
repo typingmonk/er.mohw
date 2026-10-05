@@ -11,7 +11,7 @@ county,name,hospital_sn,abbr_zh,英文縮寫,URL,scraper,author,verified_by,lang
 台北市,國立臺灣大學醫學院附設醫院,0401180014,台大,,https://reg.ntuh.gov.tw/EmgInfoBoard/NTUHEmgInfo.aspx,https://gist.github.com/typingmonk/01b7f97dcc9993f67fe69e7416dfaa09,lanf0n,,py,
 台北市,新光醫療財團法人新光吳火獅紀念醫院,1101150011,新光,,https://regis.skh.org.tw/ERONLINE/INDEX.aspx,https://gist.github.com/cornguo/d6e862ae84c0b73be3a6,cornguo,,php,
 新北市,衛生福利部雙和醫院,1331040513,雙和,,http://eng.shh.org.tw/ER_WEB/ER_WEB/,https://gist.github.com/lanfon72/47664f97f0f5dd1b2a74,lanf0n,,py,"fix values(bool, int, timestamp). (run at py2.7"
-新北市,財團法人徐元智先生醫藥基金會附設亞東紀念醫院,1131010011,亞東,,http://www.femh.org.tw/research/news_op.aspx,https://gist.github.com/lanfon72/72001e0dba4d8ca4b6cd,lanf0n,,py,"fix values(bool, int, timestamp). (run at py2.7"
+新北市,財團法人徐元智先生醫藥基金會附設亞東紀念醫院,1131010011,亞東,,https://www.femh.org.tw/research/news_op.aspx,https://gist.github.com/typingmonk/211c7cbde71cb96a7fbd4f1891c4bbe1,lanf0n,,py,"fix values(bool, int, timestamp). (run at py2.7"
 新北市,佛教慈濟醫療財團法人台北慈濟醫院,1131050515,台北慈濟,,http://app.tzuchi.com.tw/tchw/ERInfo/ERInformation.aspx,https://gist.github.com/cornguo/886eedd278aafb46ec99,cornguo,,php,
 桃園縣,長庚醫療財團法人林口長庚紀念醫院,1132070011,林口長庚,,https://www.cgmh.org.tw/bed/erd/index.asp?loc=3,https://gist.github.com/cornguo/0c9c56931d1d4aa38758,cornguo,,php,
 新竹市,國立臺灣大學醫學院附設醫院新竹分院,0412040012,新竹台大,,https://reg.ntuh.gov.tw/EmgInfoBoard/NTUHEmgInfoT4.aspx,https://gist.github.com/typingmonk/96ab466d88d960ea2000748aa151167a,lanf0n,,py,2015/3/4 inserted.
