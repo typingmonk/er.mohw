@@ -39,5 +39,5 @@ county,name,hospital_sn,abbr_zh,英文縮寫,URL,scraper,author,verified_by,lang
 高雄市,長庚醫療財團法人高雄長庚紀念醫院,1142100017,高雄長庚,,https://www.cgmh.org.tw/bed/erd/index.asp?loc=8,https://gist.github.com/cornguo/57734b63d39ae49a7e97,cornguo,,php,
 屏東縣,安泰醫療社團法人安泰醫院,0943030019,安泰,,https://www.tsmh.org.tw/sites/web_dg/er_status/er_show_db.php,https://gist.github.com/typingmonk/17169d7a0e8b325b6372be6c77491258,lanf0n,,py,"hint: https://gist.githubusercontent.com/clkao/4315df56fe8193138f67/raw/422ab0d3fedf0926ee0087ba529e52dd4a303e0e/gistfile1.txt"
 花蓮縣,佛教慈濟醫療財團法人花蓮慈濟醫院,1145010010,慈濟,,https://app.tzuchi.com.tw/tchw/erinfo_hl/erinfo.aspx,https://gist.github.com/typingmonk/71ffadec5b82338ed16d164e5d7fc5ef,t0mst0ne,,py,
-花蓮縣,臺灣基督教門諾會醫療財團法人門諾醫院,1145010038,花蓮門諾,,http://www.mch.org.tw/Docs/668/Default.aspx,https://gist.github.com/t0mst0ne/a4345363deb0255a9698,t0mst0ne,,py,
+花蓮縣,臺灣基督教門諾會醫療財團法人門諾醫院,1145010038,花蓮門諾,,https://erd.mch.org.tw/,https://gist.github.com/typingmonk/2da3b21a4f4568482921587738315f8d,t0mst0ne,,py,
 嘉義縣,戴德森醫療財團法人嘉義基督教醫院,1122010012,嘉基,,https://www.cych.org.tw/cychweb/er/er_news.aspx,https://gist.github.com/typingmonk/7722ff761d0c34d959d0786441c647ba,t0mst0ne,,py,
