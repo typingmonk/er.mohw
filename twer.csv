@@ -18,7 +18,7 @@ county,name,hospital_sn,abbr_zh,英文縮寫,URL,scraper,author,verified_by,lang
 新竹市,財團法人國泰綜合醫院,1112010528,新竹國泰,,https://med.cgh.org.tw/unit/branch/Pharmacy/ebl/RealTimeInfoHC.html,https://gist.github.com/typingmonk/7a557611acbbff1b2430d43b7dfc53fa,lancetw,,py,
 新竹市,財團法人臺灣基督長老教會馬偕紀念社會事業基金會馬偕紀念醫院,1112010519,新竹馬偕,,https://mcloudws.mmh.org.tw/DMZWEBEMRA651/Default.aspx?a=HC,https://gist.github.com/typingmonk/463a0d389db2a23eaf5347d2b6cedd70,lancetw,,py,
 新竹縣,東元綜合醫院,1533050039,東元,,https://w3.tyh.com.tw/ErData.aspx,https://gist.github.com/typingmonk/af16aca2c6c5b0f211b793e88e316bf1,lanf0n,,py,inserted 2016/3/1
-台中市,中山醫學大學附設醫院,1317040011,中山醫大,,http://www.csh.org.tw/ER/index.aspx,https://gist.github.com/cornguo/379556c003ca7d149c03,cornguo,,php,
+台中市,中山醫學大學附設醫院,1317040011,中山醫大,,https://sysint.csh.org.tw/ER/index.aspx,https://gist.github.com/typingmonk/6d54e8af1fa8da29cefcf81cc23fe1c8,cornguo,,php,
 台中市,臺中榮民總醫院,0617060018,台中榮總,,http://www.vghtc.gov.tw/GipOpenWeb/wSite/sp?xdUrl=/wSite/query/Doctor/GetEmgBedInform.jsp&ctNode=55658&mp=1&idPath=213_55658,https://gist.github.com/cornguo/c3b97701f25acabb37fb,cornguo,,php,
 台中市,中國醫藥大學附設醫院,1317050017,中國醫大,,https://emrcount.cmuh.org.tw/EmrCount/Default.aspx,https://gist.github.com/typingmonk/c4abbdc074bfd63a2f45294247397b1a,lanf0n,,py,"old version: https://gist.github.com/cornguo/e357bade74728a63d7d6"
 台中市,童綜合醫療社團法人童綜合醫院,0936060016,童綜,,https://zh-tw.sltung.com.tw/tung/BED/bed.html,https://gist.github.com/typingmonk/72a1adae1304caa9a10ef215d5828a8e,lanf0n,,python,
