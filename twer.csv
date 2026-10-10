@@ -34,7 +34,7 @@ county,name,hospital_sn,abbr_zh,英文縮寫,URL,scraper,author,verified_by,lang
 台南市,奇美醫療財團法人柳營奇美醫院,1141090512,柳營奇美,,https://www.chimei.org.tw/%E6%80%A5%E8%A8%BA%E5%8D%B3%E6%99%82%E8%A8%8A%E6%81%AF/main.aspx,https://gist.github.com/typingmonk/b066c873e9e8747e2768a03846dfd9b4,lanf0n,,py,"2015/2/25 inserted."
 台南市,國立成功大學醫學院附設醫院,0421040011,成大,,https://web.hosp.ncku.edu.tw/nckm/ER/default.aspx,https://gist.github.com/typingmonk/d7fc448b221b82e8e83e1fb69bb1cd7b,cornguo,,php,
 高雄市,財團法人私立高雄醫學大學附設中和紀念醫院,1302050014,高醫,,https://www.kmuh.org.tw/Web/EmgStatusBoard/Home/emgRealTimeStatus?hosp=KMUH,https://gist.github.com/typingmonk/9c2ced8f0989c2a0efc83b8a87fc66d1,johnny,,py,
-高雄市,義大醫療財團法人義大醫院,1142120001,義大,,http://www.edah.org.tw/index.asp?set=9462,https://gist.github.com/cornguo/b45be84a609b8b2870c2,cornguo,,php,
+高雄市,義大醫療財團法人義大醫院,1142120001,義大,,https://www.edah.org.tw/Immediate_E/ED,https://gist.github.com/typingmonk/a8c3fa6b8f286faae54a92c33b3fba02,cornguo,,php,
 高雄市,高雄榮民總醫院,0602030026,高雄榮總,,https://www.vghks.gov.tw/Json_Read.aspx?type=1&url=https://wwwmgr.vghks.gov.tw/Upload/vghksbed/List_Emergency.json,https://gist.github.com/typingmonk/137b9dcd6c08d7f302f75c64ed7fc8fb,lanf0n,,py,
 高雄市,長庚醫療財團法人高雄長庚紀念醫院,1142100017,高雄長庚,,https://webapp.cgmh.org.tw/bed/erd/index.asp?loc=8,https://gist.github.com/typingmonk/f6fd43768d5d5b7415f94609d1fe41fa,cornguo,,php,
 屏東縣,安泰醫療社團法人安泰醫院,0943030019,安泰,,https://www.tsmh.org.tw/sites/web_dg/er_status/er_show_db.php,https://gist.github.com/typingmonk/17169d7a0e8b325b6372be6c77491258,lanf0n,,py,"hint: https://gist.githubusercontent.com/clkao/4315df56fe8193138f67/raw/422ab0d3fedf0926ee0087ba529e52dd4a303e0e/gistfile1.txt"
